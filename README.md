@@ -1,8 +1,13 @@
 # gotools
 some practical small functions written by golang
 
-## example
+## get
+first:
+```
+go get -u github.com/KongWeibin/gotools/tools
+```
 
+## examples
 ```
 import (
 	"fmt"
