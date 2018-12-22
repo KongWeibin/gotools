@@ -1,7 +1,15 @@
 # gotools
 some practical small functions written by golang
 
+## example
+
 ```
+import (
+	"fmt"
+
+	"github.com/KongWeibin/gotools/tools"
+)
+
 func main() {
 
 	/************time转换小函数******************/
